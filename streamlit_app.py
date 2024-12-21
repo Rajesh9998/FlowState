@@ -11,7 +11,7 @@ def setup_environment():
     tavily_api_key = st.secrets["TAVILY_API_KEY"]
     cerebra_api_key = st.secrets["CEREBRA_API_KEY"]
     
-    os.environ['GROQ_API_KEY'] = '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'
+  
 
     client = TavilyClient(api_key=tavily_api_key)
     llm = LLM(api_key=cerebra_api_key, model="cerebras/llama-3.3-70b")
