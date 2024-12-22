@@ -39,7 +39,7 @@ The Multi-Agent System consists of the following agents:
    - Tools: File saving.
    - Output: A comprehensive markdown file summarizing findings and recommendations.
 
-![Architecture Flowchart](path/to/flowchart.png)  
+![Architecture Flowchart](Outputs/Market_Research_Agent_Flowchart.png)  
 
 ---
 
