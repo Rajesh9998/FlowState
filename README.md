@@ -5,6 +5,12 @@ This repository contains the implementation of a **Multi-Agent System** designed
 
 ---
 
+
+## Here’s a quick demo:
+
+[![Watch the video](https://img.youtube.com/vi/your_video_id/maxresdefault.jpg)](https://github.com/user-attachments/assets/be4804cd-4e1f-4564-a824-b3b91f17f076)
+
+---
 ## Features
 
 - **Market Research:** Research the given company and its industry, identifying key trends, strategic focus areas, and challenges.
