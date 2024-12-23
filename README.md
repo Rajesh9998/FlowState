@@ -1,5 +1,5 @@
 # AI/ML Proposal Generator - Multi-Agent System
-
+> Multi-Agent system For Business Use-cases proposal
 ## Overview
 This repository contains the implementation of a **Multi-Agent System** designed to generate AI and Generative AI (GenAI) use cases for a given company or industry. The system conducts market research, analyzes industry trends, proposes use cases, collects relevant resources, and prepares a final proposal. The agents work collaboratively to provide actionable insights aligned with the company’s strategic goals.
 
